@@ -27,6 +27,7 @@ The dataset used for this project is available on Kaggle. It consists of chest X
 
 - **Classes**: 
   - 🟢 Normal
-  - 🔴 Pneumonia
+  - 🔴 Pneumonia-Bacterial or Viral
+    
 
 
